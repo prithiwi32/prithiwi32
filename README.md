@@ -1,3 +1,4 @@
+I[logo](https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif)
 <h1 align="center">Hi 👋, I'm Prithiwi Raj Shankar</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 
